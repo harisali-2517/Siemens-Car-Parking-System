@@ -9,4 +9,5 @@ A localized capacity tracking and status visualization system programmed on a **
 
 ### 📂 Repository Files
 * **Ladder_Logic.pdf:** PDF export of the Main OB1 ladder logic, featuring the CTUD counters.
+* **HMI_Screenshots:**
 * **Car_Parking_System_Archive.zap15:** Raw TIA Portal V15 archive file.
